@@ -20,7 +20,6 @@ class Animal
       SetPeso(p);
       this.dono = pess;
 
-      //List<Animal> animais = new List<Animal>();
     }
   
     public void SetPeso(float pe)
